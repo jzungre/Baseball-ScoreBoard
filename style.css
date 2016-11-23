@@ -1,0 +1,46 @@
+body {
+  width: 100%;
+  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
+}
+
+
+h1 {
+  padding-left: 10px;
+
+
+  }
+
+
+.table {
+    margin: 0 auto;
+    width: 970px;
+    height: 66px;
+    
+
+
+ }
+.row {
+     border: 0px;
+
+
+ }
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+      ;
+}
+
+
+ #CocaCola {
+     font-size: 32px;
+     /*color: white;
+     background-color: #fe001a;*/
+
+
+ }
